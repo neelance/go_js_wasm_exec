@@ -1,0 +1,5 @@
+github.com/perlin-network/life v0.0.0-20181215083421-28a99a6d79ec h1:5uRQe8l2fGeTQX5ouwdw7Wq/dBV1Ipjwi6fBsS8jKo4=
+github.com/perlin-network/life v0.0.0-20181215083421-28a99a6d79ec/go.mod h1:fETv2DiCvuXiTsRHgPs2XQBvWqRGvnc59ZhCw9AtFA4=
+github.com/perlin-network/wagon v0.3.1-0.20180825141017-f8cb99b55a39 h1:CYHXy6CWxxL7ugjvCbTELOm2j5iRLEWGPl3AQYvretw=
+github.com/perlin-network/wagon v0.3.1-0.20180825141017-f8cb99b55a39/go.mod h1:zHOMvbitcZek8oshsMO5VpyBjWjV9X8cn8WTZwdebpM=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
